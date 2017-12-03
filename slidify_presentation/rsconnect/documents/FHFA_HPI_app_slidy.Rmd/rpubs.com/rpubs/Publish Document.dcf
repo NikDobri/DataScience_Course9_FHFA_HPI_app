@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/336992/04bcdc53d3b041d29e55a02010a04fe7
+bundleId: https://api.rpubs.com/api/v1/document/336992/04bcdc53d3b041d29e55a02010a04fe7
+url: http://rpubs.com/dobrinov/336992
+when: 1512321876.89268

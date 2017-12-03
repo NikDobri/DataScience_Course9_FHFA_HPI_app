@@ -7,7 +7,7 @@ framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : []            # {mathjax, quiz, bootstrap}
-mode        : selfcontained # {standalone, draft}
+mode        : standalone  # {selfcontained, draft, standalone}
 knit        : slidify::knit2slides
 ---
 
@@ -56,8 +56,8 @@ knit        : slidify::knit2slides
 
 <img src="Screen Shot 2017-12-02 at 9.51.01 PM.png" title="plot of chunk unnamed-chunk-3" alt="plot of chunk unnamed-chunk-3" width="800px" />
 
-* ui.R and Server.R located <a href="https://nikdobri.shinyapps.io/fhfa_hpi_app/">here</a>
-* The code for the slidify preentation is located <a href="https://nikdobri.shinyapps.io/fhfa_hpi_app/">here</a>
+* ui.R and Server.R located <a href="https://github.com/NikDobri/DataScience_Course9_FHFA_HPI_app">here</a>
+* The code for the slidify preentation is located <a href="https://github.com/NikDobri/DataScience_Course9_FHFA_HPI_app/tree/master/slidify_presentation">here</a>
 * App and documentation located <a href="https://nikdobri.shinyapps.io/fhfa_hpi_app/">here</a>
 
 * Note:
