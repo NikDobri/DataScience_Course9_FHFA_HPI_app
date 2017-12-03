@@ -1,0 +1,10 @@
+name: fhfa_hpi_app
+title:
+username:
+account: nikdobri
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 243349
+bundleId: 1112068
+url: https://nikdobri.shinyapps.io/fhfa_hpi_app/
+when: 1512316467.90368
